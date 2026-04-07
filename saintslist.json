@@ -1,0 +1,74 @@
+{
+  "archetype_tags": ["nature", "simplicity", "joy", "poverty", "animals", "humility", "family", "worker", "caring", "prayerful"],
+
+  "saints": [
+    {
+      "id": "francis_of_assisi",
+      "name": "St. Francis of Assisi",
+      "tagline": "Loving servant of all God's creations",
+      "description": "You have a deep love for the natural world and all living things. You find God in simplicity, and you're drawn to serve those whom society overlooks. Like Francis, you believe that true wealth is found in letting go.",
+      "archetype_tags": ["nature", "simplicity", "joy", "poverty", "animals", "humility"],
+      "virtues": ["humility", "joy", "charity"],
+      "vocation_fit": ["religious life", "lay ministry", "service"],
+      "personality_traits": ["extroverted", "empathetic", "idealistic", "gentle"],
+      "patron_of": ["animals", "ecology", "Italy", "merchants"],
+      "feast_day": "October 4",
+      "order": "Franciscan",
+      "life": "1181-1226",
+      "image_url": "",
+      "quote": ["For it is in giving that we receive.", "The deeds you do may be the only sermon some persons will hear today", "Remember that when you leave this earth, you can take with you nothing that have received--only what you have given."],
+      "fun_fact": "Francis is said to have preached to a flock of birds who stayed perfectly still to listen."
+    },
+    {
+      "id": "joseph_father_of_Jesus",
+      "name": "St. Joseph",
+      "tagline": "Earthly father and protector of Jesus",
+      "description": "You understand God has a plan for you and you willfully trust in it. You believe actions can speak a thousand words. You like working with your hands and enjoy taking care of others.",
+      "archetype_tags": ["caring", "family", "worker", "humility"],
+      "virtues": ["humility", "wisdom", "patience"],
+      "vocation_fit": ["parent", "lay ministry", "service"],
+      "personality_traits": ["introverted", "protector", "hard-worker"],
+      "patron_of": ["workers", "fathers", "families", "happy death"],
+      "feast_day": "March 19",
+      "order": "",
+      "life": "1st century",
+      "image_url": "",
+      "quote": ["Jesus"],
+      "fun_fact": "St. Joseph worked so hard in silence but yet his work is celebrated and revered every Mass. He is a reminder that while some of the most famous Saints have been priests or nuns, one of the most important was a parent."
+    },
+    {
+      "id": "therese_lisieux",
+      "name": "St. Thérèse of Lisieux",
+      "tagline": "",
+      "description": "",
+      "archetype_tags": [""],
+      "virtues": [""],
+      "vocation_fit": [""],
+      "personality_traits": [""],
+      "patron_of": [""],
+      "feast_day": "",
+      "order": "",
+      "life": "",
+      "image_url": "",
+      "quote": [""],
+      "fun_fact": ""
+    },
+    {
+      "id": "",
+      "name": "",
+      "tagline": "",
+      "description": "",
+      "archetype_tags": [""],
+      "virtues": [""],
+      "vocation_fit": [""],
+      "personality_traits": [""],
+      "patron_of": [""],
+      "feast_day": "",
+      "order": "",
+      "life": "",
+      "image_url": "",
+      "quote": [""],
+      "fun_fact": ""
+    }
+  ]
+}
